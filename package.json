@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@deepgram/sdk": "^5.0.0",
+    "@google-cloud/speech": "^7.3.0",
     "@supabase/supabase-js": "^2.99.2",
     "assemblyai": "^4.27.0",
     "inngest": "^3.52.7",
